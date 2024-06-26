@@ -1,7 +1,7 @@
 ---
 title: Bloom Box
 publishDate: 2019-12-01T00:00:00Z
-img: /uploads/dsc08300.jpg
+img: /public/assets/dsc9527.jpg
 img_alt: >-
   A bright pink sheet of paper used to wrap flowers curves in front of rich blue
   background
