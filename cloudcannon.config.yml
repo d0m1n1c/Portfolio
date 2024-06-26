@@ -21,7 +21,7 @@ collections_config:
     singular_key:
     _editables:
     _inputs:
-      src:
+      img:
         type: image
         cascade: true
     _select_data:
