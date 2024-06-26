@@ -1,6 +1,6 @@
 paths:
-  uploads: uploads
-  static: ''
+  uploads: public/assets
+  static:
   collections: ''
   data: ''
 collections_config:
